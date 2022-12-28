@@ -1,1 +1,4 @@
-# prettier-config
+```
+// .pettierrc
+"@nae-bad/prettier-config"
+```
